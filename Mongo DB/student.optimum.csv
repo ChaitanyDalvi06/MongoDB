@@ -1,0 +1,5 @@
+_id,machine,chain,tables,availability
+1,M1,3,3,36
+2,M2,5,2,50
+3,M3,2,6,60
+4,20,20,30,

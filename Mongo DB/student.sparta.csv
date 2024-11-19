@@ -1,0 +1,7 @@
+_id,firstName,lastName,email,salary,skills[0],skills[1],skills[2]
+1,john,king,john.king@abc.com,5000,Angular,react,mongodb
+2,Sachin,T,sachin.t@abc.com,5000,sales,marketing,
+3,James,Bond,james.bond@abc.com,7500,sales,marketing,
+4,Steve,J,steve.j@abc.com,7000,mac,marketing,Product design
+5,kapil,d,kapil.d@abc.com,4500,Accounting,tax,sales
+6,Amitabh,b,amitabh.b@abc.com,7000,marketing,tax,
